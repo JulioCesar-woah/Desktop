@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo sobre programación y cosas de compus o segun xd
+- 🌱 Actualmente estoy aprendiendo sobre programación y cosas de compus xd
 - 💡 Me interesa especialmente el desarrollo de software y cualquier cosa que tenga que ver con programacion y la creacion de programas
 - 🎯 Meta actual: Terminar la universidad 👍 y conseguir un trabajo ¿en que? aun no lo se muy bien, solo se que o en algo de programar o yo enseñando algo xd
 - 📫 ¿Hablamos? Puedes encontrarme en: julio.estrada2411@alumnos.udg.mx.
